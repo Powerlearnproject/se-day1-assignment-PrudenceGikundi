@@ -11,7 +11,7 @@ Software engineering is a systematic approach in the design, development, mainte
 2. **Development of Object-Oriented Programming (1980s)**: Classes, inheritance, and other associated notions made software development modular and much easier to scale.
 3. **Agile Methodology (2000s)**: Agile adoption transformed software development mainly in iterative development, flexibility, and continuous improvement.
 
-### List and briefly explain the phases of the Software Development Life Cycle.
+### 3. List and briefly explain the phases of the Software Development Life Cycle.
 1. **Requirement Analysis**: The needs of the user are gathered and documented.
 2. **Design**: The architecture and components of the software are strategized.
 3. **Implementation**: The code is written and compiled.
@@ -19,25 +19,25 @@ Software engineering is a systematic approach in the design, development, mainte
 5. **Deployment**: The software is released to the users.
 6. **Maintenance**: Updates and improvements to be done post-release of the software.
 
-### 3. Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+### 4. Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
 Waterfall: Linear, sequential approach where each phase is dependent on the preceding one, similar to a waterfall. Applicable to projects whose requirements are well-defined, such as a government contract with strict documentation. Agile: Iterative and flexible approach, fostering collaboration, and adapting to evolving requirement changes. Perfect for projects in which continuous user feedback is necessary and features change often during the development process, such as a startup app. Comparison:
 - Waterfall has clear stages and easy to manage. Lacks flexibility.
 - Agile is adaptive
 - with incremental progress; it might be difficult to control in large teams.
 
-### 4. Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+### 5. Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
 - **Software Developer:** Writes code, develops features, and fixes bugs. He collaborates with other team members to build functional software.
 - **Quality Assurance Engineer**: Tests the software for bugs and if it adheres to quality standards. It involves manual and automated testing which validates the performance.
 - **Project Manager:** Plans the timeline, budget, and resources of the project. They make sure that the team stays on track and communicate with the stakeholders.
 
-### 5. Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+### 6. Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
 - **IDEs (e.g., Visual Studio, IntelliJ IDEA)**: Tools that provide an integrated environment for writing and debugging code, improving productivity through features like code completion and debugging tools.
 - **VCS (e.g., Git, SVN)**: Systems for tracking code changes, enabling collaboration, and maintaining a history of revisions. They are crucial for coordinating work in teams and preventing code conflicts.
 
-### 6. What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+### 7. What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 - **Challenge**: Managing changing requirements.
 - **Strategy:** Implement Agile practices to iteratively adapt the changes and include them.
 - **Challenge:** Complex bugs debugging and fixation
@@ -45,7 +45,7 @@ Waterfall: Linear, sequential approach where each phase is dependent on the prec
 - **Challenge:** New emerging technologies
  - **Strategy:** Courses and continuous learning, Tech communities
 
-### 7. Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+### 8. Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 - **Unit Testing**: Tests individual components for expected behavior. It ensures code reliability at the lowest level.
 - **Integration Testing**: It shows whether various modules interact as they ought to.
 - **System Testing**: This is a test on the overall system against specifications.
@@ -55,11 +55,11 @@ Waterfall: Linear, sequential approach where each phase is dependent on the prec
 
 ## Part 2: AI Introduction and Prompt Engineering
 
-### 8. Define prompt engineering and discuss its importance in interacting with AI models.
+### 1. Define prompt engineering and discuss its importance in interacting with AI models.
 
 Prompt Engineering essentially encompasses creating very specific and structured inputs, so called prompts, to derive effective and meaningful outputs from AI models. This is crucial because well-structured prompts can substantially enhance the relevance and accuracy of AI responses.
 
-### 9. Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+### 2. Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 
 - **Vague Prompt**: "Tell me about history."
 - **Improved Prompt**: "Summarize the key events of World War II, including the causes, major battles, and outcomes."
