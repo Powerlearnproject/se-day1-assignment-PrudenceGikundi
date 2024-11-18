@@ -56,11 +56,11 @@ Waterfall: Linear, sequential approach where each phase is dependent on the prec
 
 ## Part 2: AI Introduction and Prompt Engineering
 
-Define prompt engineering and discuss its importance in interacting with AI models.
+### Define prompt engineering and discuss its importance in interacting with AI models.
 
 Prompt Engineering essentially encompasses creating very specific and structured inputs, so called prompts, to derive effective and meaningful outputs from AI models. This is crucial because well-structured prompts can substantially enhance the relevance and accuracy of AI responses.
 
-Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+### Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 
 - **Vague Prompt**: "Tell me about history."
 - **Improved Prompt**: "Summarize the key events of World War II, including the causes, major battles, and outcomes."
